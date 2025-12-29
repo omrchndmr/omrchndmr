@@ -41,9 +41,11 @@ I enjoy working on all layers of autonomous systems, from sensor data acquisitio
 
 ## 🌱 Currently Working On
 
-* 🚜 **Autonomous Agricultural UGV:** Developing full-stack software for an unmanned ground vehicle designed for agricultural tasks.
-* 🌿 **Visual-Based Plant Detection:** Implementing deep learning models for real-time crop detection and navigation.
-* 🔄 **Sim-to-Real:** Creating robust workflows to transfer ROS2 simulation algorithms (Gazebo/Isaac Sim) to physical hardware.
+* 🚜 **Autonomous Agricultural UGV (BTÜ IKA Team):** Leading the software development for an unmanned ground vehicle designed for precision agriculture.
+* ⚡ **Embedded Control:** Developing low-level firmware on **STM32** microcontrollers for precise motor driving and sensor data acquisition.
+* 👁️ **Perception & AI:** Implementing real-time crop detection and classification using **YOLOv8** and **RGB-D Cameras**.
+* 🧭 **Navigation Stack:** Developing **ROS2-based** path planning and obstacle avoidance algorithms for unstructured environments.
+* 🔄 **Simulation:** Validating control algorithms and sensor fusion pipelines in **Gazebo** before real-world deployment.
 
 ## 🎯 Goals
 
