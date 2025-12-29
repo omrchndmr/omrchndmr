@@ -63,10 +63,10 @@ My goal is to contribute to impactful projects in the field of robotics by lever
 
 
 <p align="center">
-  <a href="[https://www.linkedin.com/in/%C3%B6mer-cihan-demir-687ab0255/]
+  <a href="https://www.linkedin.com/in/%C3%B6mer-cihan-demir-687ab0255/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:o.cihandmr23@gmail.com">
+  <a href="mailto:YOUR_EMAIL@example.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
