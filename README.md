@@ -2,9 +2,15 @@
 
 ### 🤖 Autonomous Software Developer | Robotics Enthusiast | Team Lead
 
-I am an **Autonomous Software Developer** with a strong focus on **Robotics**, **ROS**, and **Computer Vision**. Currently, I serve as the **Autonomous Software Lead at the BTÜ IKA Team**, where I develop autonomous systems for robotic platforms, specifically focusing on agriculture and Unmanned Ground Vehicle (UGV) projects.
+I am a third-year Mechatronics Engineering student at Bursa Technical University. My curiosity for software and electronics, which started at a young age, led me to actively develop myself through the MATRO (Machine Technologies, Robotics, and Automation) Community after starting university.
 
-I enjoy working on all layers of autonomous systems, from sensor data acquisition to perception, decision-making, and low-level control.
+Throughout this journey, my growing interest in robotic systems has allowed me to gain hands-on experience in computer vision, autonomous driving algorithms, motor control, sensor integration, embedded systems (Raspberry Pi, Jetson Nano), and ROS2.
+
+I have taken part in Teknofest projects both as a team member and a team leader. These experiences not only strengthened my technical skills but also significantly contributed to my abilities in teamwork, communication, and leadership. Enjoying knowledge sharing, I have delivered training sessions and seminars on robotic systems within student communities and at various institutions.
+
+Personally, I consider myself curious, highly motivated, and determined. I am not hesitant to take responsibility, I approach problems with a solution-oriented mindset, and I am always eager to explore and experiment with new technologies. As an open communicator, I value creating a trust-based team environment and believe in achieving success through collaboration.
+
+My goal is to contribute to impactful projects in the field of robotics by leveraging both my technical and social skills, while continuously learning and improving myself.
 
 ---
 
@@ -41,7 +47,7 @@ I enjoy working on all layers of autonomous systems, from sensor data acquisitio
 
 ## 🌱 Currently Working On
 
-* 🚜 **Autonomous Agricultural UGV (BTÜ IKA Team):** Leading the software development for an unmanned ground vehicle designed for precision agriculture.
+* 🚜 **Autonomous UGV :** Leading the software development for an unmanned ground vehicle designed for precision agriculture.
 * ⚡ **Embedded Control:** Developing low-level firmware on **STM32** microcontrollers for precise motor driving and sensor data acquisition.
 * 👁️ **Perception & AI:** Implementing real-time crop detection and classification using **YOLOv8** and **RGB-D Cameras**.
 * 🧭 **Navigation Stack:** Developing **ROS2-based** path planning and obstacle avoidance algorithms for unstructured environments.
@@ -55,14 +61,6 @@ I enjoy working on all layers of autonomous systems, from sensor data acquisitio
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" alt="Ömer's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
-
----
 
 <p align="center">
   <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME">
